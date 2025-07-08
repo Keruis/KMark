@@ -1,6 +1,6 @@
 # 📝 KMark
 
-> A fast, lightweight, and elegant **Markdown diary desktop app** built with **Tauri** and **Svelte**.
+> A fast, lightweight, and elegant **Markdown diary desktop app** built with **Tauri** and **Vue 3**.
 
 KMark is a personal knowledge and diary tool that helps you write and organize daily notes using the power of Markdown.  
 It runs as a fast native desktop app powered by Tauri and modern web technologies.
@@ -20,7 +20,7 @@ It runs as a fast native desktop app powered by Tauri and modern web technologie
 ## 📦 Tech Stack
 
 - [Tauri](https://tauri.app) — Lightweight, secure desktop runtime
-- [Svelte + Vite](https://vitejs.dev) — Ultra-fast frontend framework with no virtual DOM
+- [Vue 3 + Vite](https://vitejs.dev) — Progressive frontend framework with a reactive core
 - [markdown-it](https://github.com/markdown-it/markdown-it) — Fast and pluggable Markdown parser
 - [TypeScript](https://www.typescriptlang.org/) *(optional)*
 
